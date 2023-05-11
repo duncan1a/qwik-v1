@@ -1,0 +1,1 @@
+import{A as o,U as a,N as n,P as l,y as s}from"./q-38333d7b.js";const t="_infobox_oa4r7_1",r={infobox:t},u=()=>o("div",{class:a(r,"infobox")},null,[o("h3",null,null,n(s,{name:"title",[l]:{name:l}},3,"aD_0"),1,null),n(s,null,3,"aD_1")],1,"aD_2");export{u as s_foRSjkQluCc};
